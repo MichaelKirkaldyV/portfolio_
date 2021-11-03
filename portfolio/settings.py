@@ -25,7 +25,7 @@ SECRET_KEY = 'sytrnj_cq^=-(g%!0v1tzp45k0f5zy(#&aljy65$%xz8741_p0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['blooming-savannah-71064.herokuapp.com']
+ALLOWED_HOSTS = ['blooming-savannah-71064.herokuapp.com', 'mike-portfol.herokuapp.com']
 
 
 # Application definition
